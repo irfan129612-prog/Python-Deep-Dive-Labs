@@ -149,3 +149,10 @@ These features improve productivity and simplify Python development.
 ## Conclusion
 
 Python 3 was successfully installed and verified on Ubuntu Linux. The development environment was configured using PyCharm, and a simple Python program was executed successfully. The system is now ready for Python development, automation, cybersecurity scripting, and data science projects.
+
+
+---
+
+### 📚 Portfolio Navigation
+
+[← All Labs](../LAB_INDEX.md) · [Repository Overview](../README.md) · [Main Portfolio](https://github.com/irfan129612-prog)
