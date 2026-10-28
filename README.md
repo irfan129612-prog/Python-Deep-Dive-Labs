@@ -1,4 +1,32 @@
-# Python Deep Dive Labs
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0F172A,50:155E75,100:0EA5E9&text=Python%20Deep%20Dive&fontColor=FFFFFF&fontSize=25&desc=Python%2C%20automation%2C%20testing%20and%20OOP&descSize=13&descAlignY=76" alt="Python Deep Dive" width="100%"/>
+
+<h2>Python Deep Dive</h2>
+**Python programming labs from fundamentals to practical scripting.**
+
+[🏠 Main Profile](https://github.com/irfan129612-prog) · [📂 All Repositories](https://github.com/irfan129612-prog?tab=repositories) · [🔗 LinkedIn](https://www.linkedin.com/in/irfan1296/)
+</div>
+
+---
+
+## 🔎 Repository Overview
+
+| **Focus** | Python Deep Dive |
+| :--- | :--- |
+| **Topics / Tools** | Python, automation, testing and OOP |
+| **Portfolio type** | Technical labs and project documentation |
+| **Maintainer** | [Irfan Ahmed](https://github.com/irfan129612-prog) |
+
+### Quick Navigation
+- [Lab and project documentation](#-lab-and-project-documentation)
+- [Documentation standard](#-documentation-standard)
+- [Contact](#-contact)
+
+> **Evidence note:** Documented activities and results should be evaluated from actual lab files and screenshots. Never expose credentials, real tokens, personal data or unauthorized security targets.
+
+---
+
+## 📚 Lab and Project Documentation
 
 A comprehensive collection of 40 hands-on Python labs covering fundamental programming concepts, object-oriented programming, file handling, automation, concurrency, data processing, testing, and practical scripting.
 
@@ -133,3 +161,15 @@ After completing these labs, I gained practical experience in:
 Cybersecurity | Linux | Python | SIEM | Data Analytics
 
 Continuously building hands-on projects and labs to strengthen practical skills in automation, cybersecurity, data analysis, and software development.
+
+---
+
+## 🗂 Documentation Standard
+
+For each lab, the recommended structure is **objective → prerequisites → implementation → verification → troubleshooting → lessons learned**. Add sanitized screenshots, code, configuration, datasets and expected output where available. This is an ongoing documentation standard, not a claim that every existing lab has all these components.
+
+## 🤝 Contact
+
+Maintained by **[Irfan Ahmed](https://github.com/irfan129612-prog)** · [LinkedIn](https://www.linkedin.com/in/irfan1296/)
+
+<p align="center"><sub>Learn → Implement → Verify → Document → Improve</sub></p>
